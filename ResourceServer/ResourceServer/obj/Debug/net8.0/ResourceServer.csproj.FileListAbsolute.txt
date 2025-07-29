@@ -1,0 +1,132 @@
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\appsettings.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.staticwebassets.endpoints.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.exe
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.deps.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.runtimeconfig.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.pdb
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.AssemblyInfoInputs.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.AssemblyInfo.cs
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\scopedcss\bundle\ResourceServer.styles.css
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.ResourceServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.ResourceServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.build.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\Resource.01567690.Up2Date
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\refint\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.pdb
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.genruntimeconfig.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\ResourceServer\ResourceServer\obj\Debug\net8.0\ref\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.staticwebassets.endpoints.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\appsettings.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.exe
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.deps.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.runtimeconfig.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.pdb
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.AssemblyInfoInputs.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.AssemblyInfo.cs
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\scopedcss\bundle\ResourceServer.styles.css
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.ResourceServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.ResourceServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.build.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\Resource.01567690.Up2Date
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\refint\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.pdb
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.genruntimeconfig.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Generation + Refresh)\ResourceServer\ResourceServer\obj\Debug\net8.0\ref\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\appsettings.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.staticwebassets.endpoints.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.exe
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.deps.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.runtimeconfig.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\ResourceServer.pdb
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.AssemblyInfoInputs.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.AssemblyInfo.cs
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\scopedcss\bundle\ResourceServer.styles.css
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.ResourceServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.ResourceServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.build.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ResourceServer.props
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\Resource.01567690.Up2Date
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\refint\ResourceServer.dll
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.pdb
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ResourceServer.genruntimeconfig.cache
+C:\Users\oussa\Desktop\DotNet Tuttorials\Asp.NetCore API\JWT\Token (Access + Refresh)+RBAC\ResourceServer\ResourceServer\obj\Debug\net8.0\ref\ResourceServer.dll
